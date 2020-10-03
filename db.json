@@ -1,0 +1,44 @@
+{
+	"productos": [
+		{
+			"nombre": "Procesador Core i5",
+			"precio": 140,
+			"id": 1
+		},
+		{
+			"nombre": "Motherboard H310M",
+			"precio": 100,
+			"id": 2
+		},
+		{
+			"nombre": "Fuente 500w Corsair",
+			"precio": 88,
+			"id": 3
+		},
+		{
+			"nombre": "Case Cougar Panzer",
+			"precio": 120,
+			"id": 4
+		},
+		{
+			"nombre": "Disco Duro 1TB Wester Digital",
+			"precio": 140,
+			"id": 5
+		},
+		{
+			"nombre": "Memoria Ram 16gb ( 2 x 8GB )",
+			"precio": 170,
+			"id": 6
+		},
+		{
+			"nombre": "SSD Samsung 960 evo",
+			"precio": 88,
+			"id": 7
+		},
+		{
+			"nombre": "Parlantes Logitech g560",
+			"precio": 140,
+			"id": 8
+		}
+	]
+}
